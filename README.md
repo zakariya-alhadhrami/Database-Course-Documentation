@@ -1,9 +1,8 @@
 # Database-Course-Documentation
-This repository contains a structured report for the Database course assignment. 
-It includes comparisons, diagrams, mind maps, and brief explanations of core database concepts.
+This repository contains a focused report for a database course assignment, covering three essential areas:
 
-## 📄 Report Contents
+- 🔄 Flat File Systems vs. Relational Databases
+- 🧠 Advantages of DBMS (Mind Map)
+- 👥 Key Roles in a Database System
 
-- ✅ Flat File Systems vs. Relational Databases
-- ✅ DBMS Advantages – Mind Map
-- ✅ Key Roles in a Database System
+Each section includes clear explanations and visual support where needed.
